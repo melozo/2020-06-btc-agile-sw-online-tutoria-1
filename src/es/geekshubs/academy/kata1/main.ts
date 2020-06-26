@@ -7,4 +7,3 @@ function main() {
 main()
 let res = _method(1)
 console.log("user: "+res)
-

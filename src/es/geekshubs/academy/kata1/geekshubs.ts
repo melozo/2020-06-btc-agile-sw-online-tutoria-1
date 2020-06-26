@@ -1,3 +1,7 @@
 export function _method(value: number) :string {
-    return "GeeksHubs"+value
+    return "nombre"+value
+}
+
+export function name(value: number) :string {
+    return 'carmelo'+value
 }
